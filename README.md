@@ -1,6 +1,6 @@
 Site Web avec VSCode
 
-Objectif faire un site web pour montrer l'avancé de mon mémoire
+Objectif faire un site web pour montrer l'avancé de mon mémoire.
 Les problèmes rencontrés sont uniquement dans le codage du site. L'attendu est donc d'avoir un site simple et claire
 
 Il y a 4 pages pour le site: principale, images, textes et bibliographie
