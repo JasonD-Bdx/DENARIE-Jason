@@ -10,3 +10,9 @@ Il y a 4 pages pour le site: principale, images, textes et bibliographie
 <img width="910" alt="Images" src="https://github.com/user-attachments/assets/af92ae2b-5949-4f6b-821f-b4408a484a4d" />
 <img width="915" alt="Textes" src="https://github.com/user-attachments/assets/f37cc70e-384c-4ea3-92be-477af6a7c6a0" />
 <img width="906" alt="Biblio" src="https://github.com/user-attachments/assets/e64e8ff5-070b-42d8-aaa6-184bfd4cc4df" />
+
+
+
+Carte avec QGIS
+
+![Carte bataille_page-0001](https://github.com/user-attachments/assets/5e69ef1c-3255-42a0-9531-548018975479)
